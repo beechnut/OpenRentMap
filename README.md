@@ -41,7 +41,7 @@ This map will be a tool for understand rents across the city, and how much landl
 
 + Might use splash images from [unsplash.it](http://unsplash.it), probably just city-themed ones:
 
-![Random image from unsplash.it](http://unsplash.it/600/185?random)
+![Random image from unsplash.it](http://unsplash.it/730/185?random)
 
 + Parcels will be each assigned one of a set [very][very] [vibrant][vibrant] colors. When a parcel has no user-contributed data, it is completely grayscale (unsaturated). It gets more saturated as a function of the proportion of units for which users contribute data. Data-rich areas will be [brilliant](http://wmgardner.co/agemap/index.html), whereas data-poor areas will be [bland](http://tiles.mapc.org/#17/42.35527/-71.06016).
 
