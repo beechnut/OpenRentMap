@@ -1,7 +1,7 @@
 Open Rent Map
 =============
 
-"A tool for seeing each other, our neighbors, in our experience of gentrification." - @allthesignals
+"A tool for seeing each other, our neighbors, in our experience of gentrification." - [@allthesignals](https://github.com/allthesignals/)
 
 Inspired by the [continuing][continuing] [gentrification][gentrification] [and][and] [displacement][displacement] [in][in] [Boston][Boston].
 
@@ -20,7 +20,7 @@ This map will be a tool for understand rents across the city, and how much landl
 
 + Create a GeoJSON tile layer from the statewide parcel database. The tile layer should include attributes ID and Address.
 
-+ Create a JSON API (using Rails) that will fetch attribute data from  
++ Create a JSON API (using Rails) that will fetch attribute data from the database for a given parcel ID or coordinate.
 
 + Build a front-end application that implements the following workflow:
 
